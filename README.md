@@ -58,7 +58,7 @@ To use this project:
 
 ---
 
-Crafted with ❤️ and creativity by [Your Name].  
+Crafted with ❤️ and creativity by [Astha].  
 Feel free to fork, modify, and improve it further!
 
 ---
